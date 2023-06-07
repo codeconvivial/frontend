@@ -1,0 +1,1 @@
+SharmaTushar1, 6/6/2023, 9:00 pm Added the Navbar functionality to the problem solving page. Also, added the TailwindCSS and Material UI framework to the app.
